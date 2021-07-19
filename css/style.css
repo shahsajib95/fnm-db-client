@@ -822,3 +822,11 @@ form#sign-up {
 form#sign-up {
     padding-top: 120px;
 }
+
+.ml-4{
+  margin-left: 10px!important;
+}
+
+.about-sec p{
+  margin-top: 15px;
+}
